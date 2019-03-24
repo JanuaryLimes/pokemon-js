@@ -1,0 +1,33 @@
+{
+  "name": "pokemon-mini",
+  "version": "2.0.0",
+  "description": "JavaScript-based Classic Pokemon Yellow Battles",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Superpencil/Pokemon-Mini.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "Pascal Pixel <pascal@superpencil.com>",
+  "license": "ISC",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "dependencies": {
+    "node-sass": "^4.11.0",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "react-scripts": "2.1.8",
+    "pokemon-font": "^1.7.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
